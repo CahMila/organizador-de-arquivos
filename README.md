@@ -1,5 +1,7 @@
 # Organizador de Arquivos por Extensão 📂
 
+![Organizador de Arquivos](caminho/para/sua-imagem.png)
+
 Este projeto em Python organiza automaticamente arquivos de uma pasta selecionada pelo usuário, movendo-os para subpastas de acordo com suas extensões (como imagens, planilhas e PDFs).
 
 ## 💡 Funcionalidade
